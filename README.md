@@ -21,8 +21,12 @@ This chatbot is powered by Llama 3.3 70B Versatile, which is a high-performance,
 
 ## Images
 
-![This is an alt text.](/image/Markdown-mark.svg "This is a sample image.")
+![This is an alt text.](https://github.com/HRSalet/Agentic-AI-ProChatBot/blob/main/snapshot%20of%20chatbot.png)
 
 ## Links
 
-You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
+Groq API key used for accessing different LLMs for project [Groq website](https://groq.com/)
+
+Google AI Studio for getting Gemini API key for project [Google AI Studio](https://aistudio.google.com/)
+
+Weather API key for fetching weather related information [Weather API](https://api.weatherapi.com/)
